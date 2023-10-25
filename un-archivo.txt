@@ -1,0 +1,20 @@
+Archivo v1
+<h1> Hola! <h1>
+<p> Me llamo Farid</p>
+
+Archivo v2
+<h1> Hola! <h1>
+<p> Me llamo Farid</p>
+
+Archivo v3
+<h1> Hola! <h1>
+<p> Me llamo Farid</p>
+
+Archivo v4
+<h1> Hola! <h1>
+<p> Me llamo Farid</p>
+
+--Mi página no sirve! Algo se rompió
+
+
+Aquí empieza la clase #3 de INtro a la web
